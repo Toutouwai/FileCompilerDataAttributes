@@ -77,7 +77,6 @@ class FileCompilerDataAttributes extends FileCompilerModule implements Configura
 		$f->name = $f_name;
 		$f->label = $this->_('Strip data-field attributes during compilation');
 		$f->checked = $this->$f_name === 1 ? 'checked' : '';
-		$f->columnWidth = 50;
 		$inputfields->add($f);
 
 	}
