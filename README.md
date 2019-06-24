@@ -1,6 +1,6 @@
 # File Compiler Data Attributes
 
-A proof of concept module for populating markup elements according to data attributes containing a field name. Created in response to [this forum topic](https://processwire.com/talk/topic/21843-rendering-field-value-using-markup-attributes/). This approach is really only useful for text fields as far as I can see.
+A proof of concept module for populating markup elements according to data attributes containing a field name. Created in response to [this forum topic](https://processwire.com/talk/topic/21843-rendering-field-value-using-markup-attributes/). This approach is really only useful for simple, single-value fields such as text fields as far as I can see.
 
 ## Installation
 
